@@ -1,6 +1,6 @@
 name: Build NSA Media APK
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
